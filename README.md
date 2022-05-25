@@ -1,3 +1,8 @@
+This was made with 2 other people as a school project, this was program with laravel and vuejs 2, we all shared task to finish this, we work by creating each branch for each component that we are assign to do, for example my contribution to this projects is the call management (Expedientes), call calrds (Carta de trucada) and the admin page, and the help video I've made it with the help of one of my co-worker on this project.
+
+This project is a web app for 112 (emergencies) students that are studying in Broggi as a 112 agents, so that they can similate emergency situations.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
